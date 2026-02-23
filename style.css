@@ -1,21 +1,70 @@
 body{
 background-color: rgb(252, 251, 251);
 display: flex;
+border-radius: 10px;
 margin: 0px;
 } 
+
 h2{
-    background-color: rgb(206, 122, 255);
+    background-color: blueviolet;
     color: white;
     padding-top: 10px;
-    padding: 10px;
+    padding: 5px;
     border-radius: 10px;
     align-items: center;
     display: flex;
 }
+h3{
+   
+    color: rgb(17, 0, 255);
+    border-radius: 15px;
+    padding: 5px;
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 link{
     padding-right: 20px;
 }
+
 #Clique{
-    padding: 500px;
-    background-color: blue;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.robo{
+   width: 500px;
+   height: 500px;
+}
+
+#site{
+background-color: rgb(47, 0, 255);
+text-align: center;
+color: white;
+}
+
+#div1{
+    margin: 10px;
+    background-color: rgb(216, 234, 255);
+    display: flex;
+    border: 0px;
+    border-radius: 15px;
+}
+.sec{
+    text-align: center;
+    background-color: rgb(38, 0, 255);
+    color: rgb(255, 255, 255);
+    border: 0px;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div2{
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    border: 0px;
+    padding: 10px;
+    border-radius: 15px;
 }
