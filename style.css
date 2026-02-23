@@ -1,0 +1,21 @@
+body{
+background-color: rgb(252, 251, 251);
+display: flex;
+margin: 0px;
+} 
+h2{
+    background-color: rgb(206, 122, 255);
+    color: white;
+    padding-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    align-items: center;
+    display: flex;
+}
+link{
+    padding-right: 20px;
+}
+#Clique{
+    padding: 500px;
+    background-color: blue;
+}
