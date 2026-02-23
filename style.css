@@ -16,11 +16,11 @@ h2{
 }
 h3{
    
-    color: rgb(17, 0, 255);
+    color: rgb(32, 40, 155);
     border-radius: 15px;
     padding: 5px;
     display: flex;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    
 }
 
 link{
@@ -33,38 +33,50 @@ link{
 }
 
 .robo{
-   width: 500px;
-   height: 500px;
+   width: 300px;
+   height: 300px;
 }
 
 #site{
-background-color: rgb(47, 0, 255);
+background-color: rgb(32, 40, 155);
 text-align: center;
 color: white;
 }
 
 #div1{
     margin: 10px;
-    background-color: rgb(216, 234, 255);
+    background-color: rgb(183, 217, 255);
     display: flex;
     border: 0px;
     border-radius: 15px;
+    font-size: 15px;
 }
 .sec{
     text-align: center;
-    background-color: rgb(38, 0, 255);
+    background-color: rgb(32, 40, 155);
     color: rgb(255, 255, 255);
     border: 0px;
-    margin-top: 10px;
+    margin: 10px;
     padding: 5px;
     border-radius: 15px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.div2{
+    text-align: center;
+    line-height: 1.5;
+}  
+    
+#div2{
     margin: 10px;
-    background-color: rgb(255, 255, 255);
+    background-color:rgb(183, 217, 255);
     display: flex;
     border: 0px;
-    padding: 10px;
+    padding: 5px;
     border-radius: 15px;
+}
+#preto{
+    color: black;
+
+}
+h6{
+     margin-left: 420px;
+     padding-left: 300px;
+     color: black;
 }
