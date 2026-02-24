@@ -65,6 +65,7 @@ color: white;
     
 #div2{
     margin-top: 10px;
+    color: black;
     background-color:rgb(183, 217, 255);
     align-items: center;
     border: 0px;
@@ -83,10 +84,13 @@ color: white;
     gap: 40px;
     color: black;
 }
+
 #teste1{
+    color: black;
     display: flex;
     justify-content: space-between;
 }
+
 #lado2{
     display: flex;
     align-items: center;
@@ -97,4 +101,16 @@ color: white;
     margin: 15px;
     border-radius: 15px;
 
+}
+#verde{
+color: black;
+background-color: green;
+}
+#vermelho{
+background-color: red;
+color: black;
+}
+#amarelo{
+background-color: yellow;
+color: black;
 }
