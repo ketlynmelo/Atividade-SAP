@@ -150,3 +150,22 @@ color: black;
     padding: 5px;
     border-radius: 15px;
 }
+#div4{
+    color: black;
+    background-color:rgb(183, 217, 255);
+    align-items: center;
+    border: 0px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 15px;
+    width: 1000px;
+}
+.icon{
+   height: 50px;
+    width: 50px;
+    border-radius: 60px;
+}
+h5{
+    display: flex;
+    padding: 10px;
+}
