@@ -122,5 +122,31 @@ color: black;
     padding:   10px;
     margin: 10px;
     width: 1100px;
+    text-align: center;
 
+}
+.imagem{
+    display: flex;
+    padding: 10px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 10px;
+    gap: 10px;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    
+    
+}
+#cor{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+#div3{
+    color: black;
+    background-color:rgb(183, 217, 255);
+    align-items: center;
+    border: 0px;
+    padding: 5px;
+    border-radius: 15px;
 }
